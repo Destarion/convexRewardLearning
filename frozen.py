@@ -16,6 +16,7 @@ s_a = np.zeros((n,S*A))
 trajectory = [0]*h
 trajectories = [trajectory]*n
 entropies = [0]*n
+#comment
 
 # Loop over the steps
 
